@@ -1,0 +1,49 @@
+body {
+      background-color: #eaf6f6;
+       }
+hr {   border-color: #66bfbf;
+ border-style: dotted none none none;
+ border-width: 5px;
+ width: 3%;
+}
+
+h1 { color: #66bfbf;
+font-family: georgia;
+text-align: center;
+}
+h3 { color: #66bfbf;
+font-family: Times;
+text-align: center;
+}
+
+td { color: grey;
+     font-size: 100%;
+     font-family: serif;
+     text-align: center;
+}
+a {
+  color: grey;
+       font-size: 100%;
+       font-family: serif;
+       text-align: center;
+}
+form {color: grey;
+     font-size: 100%;
+     font-family: serif;
+     text-align: center;
+   }
+
+   th {color: grey;
+        font-size: 100%;
+        font-family: serif;
+         text-align: center;
+      }
+      table { margin: 0 auto; }
+      address {
+        font-family: serif;
+        text-align: center;}
+
+      p {color: grey;
+           font-size: 100%;
+           font-family: serif;
+           text-align: center}
